@@ -12,7 +12,6 @@ A modern, AI-powered web application for analyzing and summarizing customer feed
 - [Usage](#usage)
 - [Available Scripts](#available-scripts)
 - [Contributing](#contributing)
-- [Author](#author)
 
 ## ✨ Features
 
@@ -211,5 +210,3 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-
-**Made with ❤️ by DPRAHUL**
